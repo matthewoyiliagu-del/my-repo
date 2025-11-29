@@ -1,0 +1,187 @@
+
+ .thumbnail-1{
+width: 100%;
+ }
+ .video-preview{
+  display: inline-block;
+  vertical-align: top;
+ }
+ 
+.profile-picture{
+  width: 40px;
+  border-radius: 30px;
+}
+.video-title{
+  margin-top: 0%;
+  font-family: arial;
+  width: 240px;
+  line-height: 18px;
+  font-weight: 500;
+
+}
+.video-author{
+  color:gray;
+  font-family: arial;
+  line-height: 13px;
+}
+.video-stats{
+  color: gray;
+  line-height: 12px;
+}
+.video-info-grid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.thumbnail-8{
+  width: 100%;
+}
+.video-preview2{
+  display: inline-block;
+}
+.video-info-grid2{
+  display: grid;
+  grid-template-columns: 60px 1fr;
+}
+.profile-picture2{
+  width: 50px;
+  border-radius: 30px;
+}
+.video-title2{
+  margin-top: 8px;
+  font-family: arial;
+  font-weight: 500;
+  line-height: 5px;
+}
+.video-author2{
+  font-family: arial;
+  color:gray;
+}
+.video-stats2{
+  color:gray;
+  font-family:arial;
+  line-height: 10px;
+}
+.thumbnail-21{
+  width: 100%;
+}
+.video-preview3{
+  display: inline-block;
+    vertical-align: top;
+}
+.video-info-grid3{
+  display: grid;
+  grid-template-columns: 60px 1fr;
+
+}
+.profile-picture3{
+  width: 50px;
+  border-radius: 30px;
+}
+.video-title3{
+  width: 245px;
+  font-family: arial;
+  font-weight: 500;
+  margin-top: 5px;
+
+}
+.video-author3{
+  color: gray;
+  font-family: arial;
+  line-height: 9px;
+}
+.video-stats3{
+  line-height: 9px;
+  font-family: arial;
+  color: gray;
+}
+.thumbnail-22{
+  width:100%;
+}
+.video-preview4{
+  
+}
+.video-info-grid4{
+  display: grid;
+  grid-template-columns: 60px 1fr;
+}
+.profile-picture4{
+  width: 50px;
+  border-radius: 30px;
+}
+.video-title4{
+  width: 245px;
+  margin-top: 0%;
+  font-weight: 500;
+  font-family: arial;
+
+}
+.video-author4{
+  color: gray;
+  font-family:arial;
+  line-height: 8px;
+}
+.video-stats4{
+  color: gray;
+  line-height: 8px;
+}
+.thumbnail-23{
+  width:100%;
+}
+.video-info-grid5{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+.profile-picture5{
+  width: 50px;
+  border-radius: 30px;
+}
+.video-title5{
+  width:250px;
+  margin-top: 0%;
+  font-family:arial;
+  font-weight: 500;
+}
+.video-author5{
+color:gray;
+font-family: arial;
+line-height: 8px;
+}
+.video-stats5{
+color:gray;
+font-family:arial;
+line-height: 8px;
+}
+.thumbnail-24{
+  width: 100%;
+}
+.video-info-grid6{
+  display: grid;
+  grid-template-columns: 60px 1fr;
+}
+.profile-picture6{
+  width: 50px;
+  border-radius:30px ;
+}
+.video-title6{
+  width:270px;
+  margin-top: 0%;
+font-weight: 500;
+font-family: arial;
+}
+.video-author6{
+color:gray;
+font-family: arial;
+line-height: 8px;
+}
+.video-stats6{
+  color:gray;
+  font-family: arial;
+  line-height:8px ;
+}
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 40px;
+}
